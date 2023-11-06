@@ -1,5 +1,7 @@
 # Titanic Dataset Exploratory Data Analysis (EDA)
 
+[Blog: Titanic Data Analysis: Unveiling the Stories of Survival and Tragedy](https://pxxthik.medium.com/titanic-data-analysis-unveiling-the-stories-of-survival-and-tragedy-3b18c2326a18)
+
 <img src="titanicship.jpg"/>
 
 This repository contains an Exploratory Data Analysis (EDA) of the Titanic dataset, which is a well-known dataset in the field of data science and machine learning. The analysis explores the dataset to gain insights and answer various questions about the passengers on the Titanic.
